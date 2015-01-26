@@ -1,0 +1,16 @@
+*~
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+.classpath
+.project
+.settings/
+
+tmp/
+logs/
+precompiled/
+eclipse/
+dropbox.conf
